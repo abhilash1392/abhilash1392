@@ -23,5 +23,24 @@
 </p>
 
 
+<h3 align="left">Stats: </h3>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Abhilash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilash1392&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Abhilash's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash1392" />
+
+</details>
+
+
+
 
 
